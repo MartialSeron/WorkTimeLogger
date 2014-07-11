@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Work Time Logger</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_start_working_day">Start working day</string>
+    <string name="action_stop_working_day">Start working day</string>
+    <string name="action_new_pause">New pause</string>
+    <string name="pauses_list">Pauses</string>
+
+    <string name="title_activity_on_going">OnGoingActivity</string>
+    <string name="planned_end_of_day">Planned end of day</string>
+    <string name="on_going_working_time">On going working time</string>
+
+    <string name="choose_pause_type">Select pause type</string>
+    <array name="pause_types">
+        <item>Coffee</item>
+        <item>Lunch</item>
+    </array>
+
+</resources>

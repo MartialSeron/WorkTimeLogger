@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mseron.worktimelogger.OnGoingActivity" >
+    <item android:id="@+id/action_stop_working_day"
+        android:title="@string/action_stop_working_day"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_stop"
+        />
+    <item android:id="@+id/action_new_pause"
+        android:title="@string/action_new_pause"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_pause"
+        />
+</menu>
